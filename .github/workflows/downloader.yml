@@ -32,7 +32,7 @@ jobs:
 
       - name: Download file
         run: |
-          python scripts/tg_downloader.py \
+          python scripts/public_channels_downloader.py \
             --url "${{ github.event.inputs.post_url }}"
 
       - name: Check output
