@@ -4,7 +4,7 @@
 
 # 📡 TELEGRAM MIRROR
 
-### خواندن و دانلود از کانال‌های تلگرام بدون فیلتر، مستقیم از گیتهاب
+### خواندن و دانلود محتوی از کانال‌های تلگرام بدون فیلتر، مستقیم از گیتهاب
 
 [![GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
